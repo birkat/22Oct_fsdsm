@@ -13,5 +13,10 @@ git add .
 ```
 
 ```
-gir commit -m "this is my first commit"
+git commit -m "this is my first commit"
 ```
+
+```
+git pull
+```
+
