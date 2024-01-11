@@ -11,3 +11,7 @@ git add abc.txt
 
 git add .
 ```
+
+```
+gir commit -m "this is my first commit"
+```
