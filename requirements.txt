@@ -6,4 +6,4 @@ seaborn
 maltplotlib
 Flask
 
--e .
+-e .  #for installing setup.py
